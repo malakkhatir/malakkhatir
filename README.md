@@ -4,6 +4,8 @@
 
 Passionnée par le développement informatique et les nouvelles technologies, j'aime concevoir des applications Web et mobiles, résoudre des problèmes techniques et transformer des idées en solutions concrètes.
 
+🌐 **Mon Portfolio :** [malakkhatir.github.io](https://malakkhatir.github.io) 
+
 🎓 Actuellement en **Master Spécialisé en Systèmes d'Information & Data Science à l'ENSAM Casablanca**, après une Licence Professionnelle en Full Stack Development & DevOps.
 
 ---
@@ -65,6 +67,9 @@ Passionnée par le développement informatique et les nouvelles technologies, j'
 
 ## 🚀 Mes projets
 
+### 🔹 FitApp - Application mobile de fitness (React Native & PHP)
+Application mobile complète avec API REST, 60 exercices, 20 programmes sportifs, suivi de progression, système de badges, mode sombre et traductions FR/EN.
+
 ### 🔹 Application de gestion des réclamations
 Application basée sur Angular et Spring Boot, avec gestion des utilisateurs, des rôles et des statuts de réclamation.
 
@@ -77,7 +82,7 @@ Projet d'exploration avec .NET, MongoDB, Consul et Ocelot.
 ### 🔹 Développement mobile
 Projets d'applications mobiles avec React Native.
 
-📂 [Découvrir mes repositories GitHub](https://github.com/MalakKhatir?tab=repositories)
+🌐 [Visiter mon Portfolio](https://malakkhatir.github.io) | 📂 [Découvrir mes repositories GitHub](https://github.com/MalakKhatir?tab=repositories)
 
 ---
 
@@ -108,6 +113,9 @@ Projets d'applications mobiles avec React Native.
 ## 📫 Me contacter
 
 <p align="left">
+  <a href="https://malakkhatir.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visiter-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/malak-khatir-4780b6346/">
     <img src="https://img.shields.io/badge/LinkedIn-Malak%20Khatir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -115,6 +123,8 @@ Projets d'applications mobiles avec React Native.
     <img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+🌐 **Portfolio :** [malakkhatir.github.io](https://malakkhatir.github.io)
 
 📧 **Email :** [malakkhatir35@gmail.com](mailto:malakkhatir35@gmail.com)
 
